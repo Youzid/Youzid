@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,redux ,nextJs,threeJs**
 
-- 📫 How to reach me **you.benbouzid@gmail.com**
+- 📫 reach me at **you.benbouzid@gmail.com**
 
 - ⚡ Fun fact **can't sleep on an error or a losing videogame**
 
