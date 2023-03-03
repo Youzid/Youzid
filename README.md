@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Nice to see you</h1>
+<h1 align="center">Hey 👋, Nice to see you</h1>
 <h3 align="center"> Welcome to my page! im a  frontend developer from Algeria</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
