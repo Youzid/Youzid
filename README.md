@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **you.benbouzid@gmail.com**
 
-- ⚡ Fun fact **can't sleep on a error code or a losing videogame**
+- ⚡ Fun fact **can't sleep on an error or a losing videogame**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
