@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [youcefbenbouzid.site](youcefbenbouzid.site)
+- 👨‍💻 All of my projects are available at [youcefbenbouzid.site](youcefbenbouzid.com)
 
 - 💬 Ask me about **react,redux ,nextJs,threeJs**
 
