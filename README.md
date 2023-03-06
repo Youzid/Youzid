@@ -9,7 +9,7 @@
 
 - 📫 reach me at **you.benbouzid@gmail.com**
 
-- ⚡ Fun fact ** Obsessed with Dark mode**
+- ⚡ Fun fact ** Obsessed with 𝗗𝗮𝗿𝗸 mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
