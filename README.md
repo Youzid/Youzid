@@ -9,7 +9,7 @@
 
 - 📫 reach me at **you.benbouzid@gmail.com**
 
-- ⚡ Fun fact ** i can't sleep with an error or a losing game**
+- ⚡ Fun fact ** Obsessed with Dark mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
