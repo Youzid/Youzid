@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [youcefbenbouzid.site/projects](youcefbenbouzid.site/projects)
+- 👨‍💻 All of my projects are available at [youcefbenbouzid.site/projects](youcefbenbouzid.site)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/youcefbenbouzid/recent-activity/all](https://www.linkedin.com/in/youcefbenbouzid/recent-activity/all)
 
