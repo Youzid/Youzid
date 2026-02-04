@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, Nice to see you</h1>
-<h3 align="center">Welcome to my page! im a Frontend developer from Algeria</h3>
+<h3 align="center">Welcome to my page! im a Fullstack developer from Algeria</h3>
 
 
-- 🌱 I’m currently learning **Micro frontends | Web Performance | Node.js **
 
 - 👨‍💻 All of my projects are available at [youcefbenbouzid.site/projects](youcefbenbouzid.site)
 
