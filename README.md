@@ -7,7 +7,6 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/youcefbenbouzid/recent-activity/all](https://www.linkedin.com/in/youcefbenbouzid/recent-activity/all)
 
-- ⚡ Fun fact **Fun fact Obsessed with 𝗗𝗮𝗿𝗸 mode**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
